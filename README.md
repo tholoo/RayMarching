@@ -10,7 +10,7 @@ Using pyglet to implement 2D Ray Marching
   pip install requirements.txt
   ```
 
-## Usage
+### Usage
 
   ```sh
   python main.py
