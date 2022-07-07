@@ -1,6 +1,6 @@
 ## Raymarching
 
-![Raymarching Gif][showcase]]
+![Raymarching Gif][showcase]
 
 Using pyglet to implement 2D Ray Marching
 
